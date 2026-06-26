@@ -1,3 +1,29 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Avadhut+Bhong!;Flutter+Dev+%7C+Backend+Learner+%7C+DSA+Enthusiast" alt="Typing SVG" />
+</p>
+
+
+
+<table>
+  <tr>
+    <td width="60%">
+      
+### 🚀 About Me:
+      
+Hi, I'm **Vitthal Ijare** — a passionate **Data Analyst** exploring **Various Data** and sharpening my **DSA** skills.<br><br>
+
+🔭 Working with **ML**<br>
+🌱 Learning **jupyter.notebook** & **Data Structures**<br>
+📫 Reach me: **vitthalijare64@gmail.com**<br>
+
+   </td>
+   <td width="40%">
+     <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Coding gif" width="100%" style="border-radius: 10px;">
+   </td>
+  </tr>
+</table> 
+
+---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vitthal___ijare) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/VITTHAL IJARE) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vitthalijare64@gmail.com) 
