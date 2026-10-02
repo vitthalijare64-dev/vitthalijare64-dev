@@ -131,16 +131,11 @@ A machine-learning based credit-risk prediction system for evaluating financial 
 
 ## 🤝 Let's Connect
 
-<p>
-  <a href="https://www.linkedin.com/in/vitthal-ijare">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:vitthalijare64@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
 ---
+
+<p align="center">
+  <i>Building with data. Learning continuously. Solving real-world problems.</i>
+</p>
 
 <p align="center">
   <i>Building with data. Learning continuously. Solving real-world problems.</i>
