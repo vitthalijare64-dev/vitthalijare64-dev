@@ -127,9 +127,6 @@ A machine-learning based credit-risk prediction system for evaluating financial 
 - SQL & Database Optimization
 - Data Visualization
 
----
-
-## 🤝 Let's Connect
 
 ---
 
