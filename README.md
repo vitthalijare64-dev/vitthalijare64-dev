@@ -130,9 +130,6 @@ A machine-learning based credit-risk prediction system for evaluating financial 
 
 ---
 
-<p align="center">
-  <i>Building with data. Learning continuously. Solving real-world problems.</i>
-</p>
 
 <p align="center">
   <i>Building with data. Learning continuously. Solving real-world problems.</i>
